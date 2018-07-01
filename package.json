@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mdiplacido/tensorflowjs-playground#readme",
   "dependencies": {
     "@tensorflow/tfjs": "^0.11.7"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.2"
   }
 }
