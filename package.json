@@ -1,0 +1,19 @@
+{
+  "name": "tensorflowjs-playground",
+  "version": "1.0.0",
+  "description": "TensorFlow.js playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdiplacido/tensorflowjs-playground.git"
+  },
+  "author": "mdiplacido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdiplacido/tensorflowjs-playground/issues"
+  },
+  "homepage": "https://github.com/mdiplacido/tensorflowjs-playground#readme"
+}
